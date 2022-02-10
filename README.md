@@ -1,2 +1,2 @@
-# Beware-The-Hunter
-Juego de supervivencia de 3 jugadores quienes serán los oso ,tendrán que evitar a los cazadores y conseguir cuanta comida se pueda antes que se acabe el tiempo el quien consiga mas comida cuando se acabe el tiempo gana , pero si es atrapado por un cazador se elimina ese jugador y el juego termina de dos maneras 1.- termina cuando todos los osos son capturados y 2 .- termina cuando el tiempo se acabe
+# C34-Est
+Bola demoledora a cargo del estudiante
